@@ -1,0 +1,131 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.73109514
+Tree 0:
+ (- (COS (MAX (MIN (/ SECS UCS) (* BN UCS))
+     (MAX (COS BC) (COS M)))) (+ (COS (MIN (MIN
+     MA UCSH) (+ M MA))) (SIN (MAX (COS UCS) (COS
+     BN)))))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.73109514
+Tree 0:
+ (- (COS (MAX (MIN (/ SECS UCS) (* BN UCS))
+     (MAX (COS BC) (COS M)))) (+ (COS (MIN (MIN
+     MA UCSH) (+ M MA))) (SIN (MAX (COS UCS) (COS
+     BN)))))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.73109514
+Tree 0:
+ (- (COS (MAX (MIN (/ SECS UCS) (* BN UCS))
+     (MAX (COS BC) (COS M)))) (+ (COS (MIN (MIN
+     MA UCSH) (+ M MA))) (SIN (MAX (COS UCS) (COS
+     BN)))))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.73109514
+Tree 0:
+ (- (COS (MAX (MIN (/ SECS UCS) (* BN UCS))
+     (MAX (COS BC) (COS M)))) (+ (COS (MIN (MIN
+     MA UCSH) (+ M MA))) (SIN (MAX (COS UCS) (COS
+     BN)))))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.73109514
+Tree 0:
+ (- (COS (MAX (MIN (/ SECS UCS) (* BN UCS))
+     (MAX (COS BC) (COS M)))) (+ (COS (MIN (MIN
+     MA UCSH) (+ M MA))) (SIN (MAX (COS UCS) (COS
+     BN)))))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.73109514
+Tree 0:
+ (- (COS (MAX (MIN (/ SECS UCS) (* BN UCS))
+     (MAX (COS BC) (COS M)))) (+ (COS (MIN (MIN
+     MA UCSH) (+ M MA))) (SIN (MAX (COS UCS) (COS
+     BN)))))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.73109514
+Tree 0:
+ (- (COS (MAX (MIN (/ SECS UCS) (* BN UCS))
+     (MAX (COS BC) (COS M)))) (+ (COS (MIN (MIN
+     MA UCSH) (+ M MA))) (SIN (MAX (COS UCS) (COS
+     BN)))))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.73109514
+Tree 0:
+ (- (COS (MAX (MIN (/ SECS UCS) (* BN UCS))
+     (MAX (COS BC) (COS M)))) (+ (COS (MIN (MIN
+     MA UCSH) (+ M MA))) (SIN (MAX (COS UCS) (COS
+     BN)))))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.73109514
+Tree 0:
+ (- (COS (MAX (MIN (/ SECS UCS) (* BN UCS))
+     (MAX (COS BC) (COS M)))) (+ (COS (MIN (MIN
+     MA UCSH) (+ M MA))) (SIN (MAX (COS UCS) (COS
+     BN)))))
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.73109514
+Tree 0:
+ (- (COS (MAX (MIN (/ SECS UCS) (* BN UCS))
+     (MAX (COS BC) (COS M)))) (+ (COS (MIN (MIN
+     MA UCSH) (+ M MA))) (SIN (MAX (COS UCS) (COS
+     BN)))))
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.73109514
+Tree 0:
+ (- (COS (MAX (MIN (/ SECS UCS) (* BN UCS))
+     (MAX (COS BC) (COS M)))) (+ (COS (MIN (MIN
+     MA UCSH) (+ M MA))) (SIN (MAX (COS UCS) (COS
+     BN)))))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.73109514
+Tree 0:
+ (- (COS (MAX (MIN (/ SECS UCS) (* BN UCS))
+     (MAX (COS BC) (COS M)))) (+ (COS (MIN (MIN
+     MA UCSH) (+ M MA))) (SIN (MAX (COS UCS) (COS
+     BN)))))

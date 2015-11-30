@@ -1,0 +1,107 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.74338436
+Tree 0:
+ (- (+ (MIN BN CT) (* BN M)) (+ (MIN BC M)
+     (MAX BC SECS)))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.74338436
+Tree 0:
+ (- (+ (MIN BN CT) (* BN M)) (+ (MIN BC M)
+     (MAX BC SECS)))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.74338436
+Tree 0:
+ (- (+ (MIN BN CT) (* BN M)) (+ (MIN BC M)
+     (MAX BC SECS)))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.74338436
+Tree 0:
+ (- (+ (MIN BN CT) (* BN M)) (+ (MIN BC M)
+     (MAX BC SECS)))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.74338436
+Tree 0:
+ (- (+ (MIN BN CT) (* BN M)) (+ (MIN BC M)
+     (MAX BC SECS)))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.74338436
+Tree 0:
+ (- (+ (MIN BN CT) (* BN M)) (+ (MIN BC M)
+     (MAX BC SECS)))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.74338436
+Tree 0:
+ (- (+ (MIN BN CT) (* BN M)) (+ (MIN BC M)
+     (MAX BC SECS)))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.74338436
+Tree 0:
+ (- (+ (MIN BN CT) (* BN M)) (+ (MIN BC M)
+     (MAX BC SECS)))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.74338436
+Tree 0:
+ (- (+ (MIN BN CT) (* BN M)) (+ (MIN BC M)
+     (MAX BC SECS)))
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.74338436
+Tree 0:
+ (- (+ (MIN BN CT) (* BN M)) (+ (MIN BC M)
+     (MAX BC SECS)))
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.74338436
+Tree 0:
+ (- (+ (MIN BN CT) (* BN M)) (+ (MIN BC M)
+     (MAX BC SECS)))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.74338436
+Tree 0:
+ (- (+ (MIN BN CT) (* BN M)) (+ (MIN BC M)
+     (MAX BC SECS)))

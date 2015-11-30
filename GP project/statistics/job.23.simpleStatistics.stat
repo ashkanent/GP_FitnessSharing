@@ -1,0 +1,107 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7665238
+Tree 0:
+ (- (/ (* UCSH CT) (- BN UCS)) (SIN (MIN UCS
+     UCS)))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7665238
+Tree 0:
+ (- (/ (* UCSH CT) (- BN UCS)) (SIN (MIN UCS
+     UCS)))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7665238
+Tree 0:
+ (- (/ (* UCSH CT) (- BN UCS)) (SIN (MIN UCS
+     UCS)))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7665238
+Tree 0:
+ (- (/ (* UCSH CT) (- BN UCS)) (SIN (MIN UCS
+     UCS)))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7665238
+Tree 0:
+ (- (/ (* UCSH CT) (- BN UCS)) (SIN (MIN UCS
+     UCS)))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7665238
+Tree 0:
+ (- (/ (* UCSH CT) (- BN UCS)) (SIN (MIN UCS
+     UCS)))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7665238
+Tree 0:
+ (- (/ (* UCSH CT) (- BN UCS)) (SIN (MIN UCS
+     UCS)))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7665238
+Tree 0:
+ (- (/ (* UCSH CT) (- BN UCS)) (SIN (MIN UCS
+     UCS)))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7665238
+Tree 0:
+ (- (/ (* UCSH CT) (- BN UCS)) (SIN (MIN UCS
+     UCS)))
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7665238
+Tree 0:
+ (- (/ (* UCSH CT) (- BN UCS)) (SIN (MIN UCS
+     UCS)))
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7665238
+Tree 0:
+ (- (/ (* UCSH CT) (- BN UCS)) (SIN (MIN UCS
+     UCS)))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7665238
+Tree 0:
+ (- (/ (* UCSH CT) (- BN UCS)) (SIN (MIN UCS
+     UCS)))

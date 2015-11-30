@@ -1,0 +1,107 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.78831446
+Tree 0:
+ (COS (MAX (/ (* BN M) (COS M)) (/ (COS M)
+     (/ BN UCSH))))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.78831446
+Tree 0:
+ (COS (MAX (/ (* BN M) (COS M)) (/ (COS M)
+     (/ BN UCSH))))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.78831446
+Tree 0:
+ (COS (MAX (/ (* BN M) (COS M)) (/ (COS M)
+     (/ BN UCSH))))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.78831446
+Tree 0:
+ (COS (MAX (/ (* BN M) (COS M)) (/ (COS M)
+     (/ BN UCSH))))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.78831446
+Tree 0:
+ (COS (MAX (/ (* BN M) (COS M)) (/ (COS M)
+     (/ BN UCSH))))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.78831446
+Tree 0:
+ (COS (MAX (/ (* BN M) (COS M)) (/ (COS M)
+     (/ BN UCSH))))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.78831446
+Tree 0:
+ (COS (MAX (/ (* BN M) (COS M)) (/ (COS M)
+     (/ BN UCSH))))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.78831446
+Tree 0:
+ (COS (MAX (/ (* BN M) (COS M)) (/ (COS M)
+     (/ BN UCSH))))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.78831446
+Tree 0:
+ (COS (MAX (/ (* BN M) (COS M)) (/ (COS M)
+     (/ BN UCSH))))
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.78831446
+Tree 0:
+ (COS (MAX (/ (* BN M) (COS M)) (/ (COS M)
+     (/ BN UCSH))))
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.78831446
+Tree 0:
+ (COS (MAX (/ (* BN M) (COS M)) (/ (COS M)
+     (/ BN UCSH))))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.78831446
+Tree 0:
+ (COS (MAX (/ (* BN M) (COS M)) (/ (COS M)
+     (/ BN UCSH))))

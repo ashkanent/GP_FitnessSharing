@@ -1,0 +1,119 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.763261
+Tree 0:
+ (* (COS (+ (MAX BC BN) (MIN NN M))) (- (MAX
+     (/ CT BC) (+ CT BN)) (MAX (COS SECS) (MIN
+     NN M))))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.763261
+Tree 0:
+ (* (COS (+ (MAX BC BN) (MIN NN M))) (- (MAX
+     (/ CT BC) (+ CT BN)) (MAX (COS SECS) (MIN
+     NN M))))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.763261
+Tree 0:
+ (* (COS (+ (MAX BC BN) (MIN NN M))) (- (MAX
+     (/ CT BC) (+ CT BN)) (MAX (COS SECS) (MIN
+     NN M))))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.763261
+Tree 0:
+ (* (COS (+ (MAX BC BN) (MIN NN M))) (- (MAX
+     (/ CT BC) (+ CT BN)) (MAX (COS SECS) (MIN
+     NN M))))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.763261
+Tree 0:
+ (* (COS (+ (MAX BC BN) (MIN NN M))) (- (MAX
+     (/ CT BC) (+ CT BN)) (MAX (COS SECS) (MIN
+     NN M))))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.763261
+Tree 0:
+ (* (COS (+ (MAX BC BN) (MIN NN M))) (- (MAX
+     (/ CT BC) (+ CT BN)) (MAX (COS SECS) (MIN
+     NN M))))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.763261
+Tree 0:
+ (* (COS (+ (MAX BC BN) (MIN NN M))) (- (MAX
+     (/ CT BC) (+ CT BN)) (MAX (COS SECS) (MIN
+     NN M))))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.763261
+Tree 0:
+ (* (COS (+ (MAX BC BN) (MIN NN M))) (- (MAX
+     (/ CT BC) (+ CT BN)) (MAX (COS SECS) (MIN
+     NN M))))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.763261
+Tree 0:
+ (* (COS (+ (MAX BC BN) (MIN NN M))) (- (MAX
+     (/ CT BC) (+ CT BN)) (MAX (COS SECS) (MIN
+     NN M))))
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.763261
+Tree 0:
+ (* (COS (+ (MAX BC BN) (MIN NN M))) (- (MAX
+     (/ CT BC) (+ CT BN)) (MAX (COS SECS) (MIN
+     NN M))))
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.763261
+Tree 0:
+ (* (COS (+ (MAX BC BN) (MIN NN M))) (- (MAX
+     (/ CT BC) (+ CT BN)) (MAX (COS SECS) (MIN
+     NN M))))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.763261
+Tree 0:
+ (* (COS (+ (MAX BC BN) (MIN NN M))) (- (MAX
+     (/ CT BC) (+ CT BN)) (MAX (COS SECS) (MIN
+     NN M))))

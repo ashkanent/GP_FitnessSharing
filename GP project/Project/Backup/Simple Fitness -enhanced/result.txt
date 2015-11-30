@@ -1,0 +1,160 @@
+True Positive: 28.33% - True Negative: 64.00% 
+False Positive: 2.67% - False Negative: 5.00%
+Fitness Value: 90.5
+________________________________________________
+True Positive: 28.33% - True Negative: 64.00% 
+False Positive: 2.67% - False Negative: 5.00%
+Fitness Value: 90.5
+________________________________________________
+True Positive: 32.33% - True Negative: 65.33% 
+False Positive: 1.33% - False Negative: 1.00%
+Fitness Value: 97.5
+________________________________________________
+True Positive: 32.33% - True Negative: 65.33% 
+False Positive: 1.33% - False Negative: 1.00%
+Fitness Value: 97.5
+________________________________________________
+True Positive: 30.33% - True Negative: 59.00% 
+False Positive: 7.67% - False Negative: 3.00%
+Fitness Value: 89.75
+________________________________________________
+True Positive: 30.33% - True Negative: 59.00% 
+False Positive: 7.67% - False Negative: 3.00%
+Fitness Value: 89.75
+________________________________________________
+True Positive: 31.00% - True Negative: 63.33% 
+False Positive: 3.33% - False Negative: 2.33%
+Fitness Value: 94.0
+________________________________________________
+True Positive: 31.00% - True Negative: 63.33% 
+False Positive: 3.33% - False Negative: 2.33%
+Fitness Value: 94.0
+________________________________________________
+True Positive: 28.00% - True Negative: 63.33% 
+False Positive: 3.33% - False Negative: 5.33%
+Fitness Value: 89.5
+________________________________________________
+True Positive: 28.00% - True Negative: 63.33% 
+False Positive: 3.33% - False Negative: 5.33%
+Fitness Value: 89.5
+________________________________________________
+True Positive: 31.33% - True Negative: 61.00% 
+False Positive: 5.67% - False Negative: 2.00%
+Fitness Value: 92.75
+________________________________________________
+True Positive: 31.33% - True Negative: 61.00% 
+False Positive: 5.67% - False Negative: 2.00%
+Fitness Value: 92.75
+________________________________________________
+True Positive: 31.33% - True Negative: 64.00% 
+False Positive: 2.67% - False Negative: 2.00%
+Fitness Value: 95.0
+________________________________________________
+True Positive: 31.33% - True Negative: 64.00% 
+False Positive: 2.67% - False Negative: 2.00%
+Fitness Value: 95.0
+________________________________________________
+True Positive: 30.67% - True Negative: 64.00% 
+False Positive: 2.67% - False Negative: 2.67%
+Fitness Value: 94.0
+________________________________________________
+True Positive: 30.67% - True Negative: 64.00% 
+False Positive: 2.67% - False Negative: 2.67%
+Fitness Value: 94.0
+________________________________________________
+True Positive: 31.67% - True Negative: 63.67% 
+False Positive: 3.00% - False Negative: 1.67%
+Fitness Value: 95.24999999999999
+________________________________________________
+True Positive: 31.67% - True Negative: 63.67% 
+False Positive: 3.00% - False Negative: 1.67%
+Fitness Value: 95.24999999999999
+________________________________________________
+True Positive: 30.67% - True Negative: 61.67% 
+False Positive: 5.00% - False Negative: 2.67%
+Fitness Value: 92.25000000000001
+________________________________________________
+True Positive: 30.67% - True Negative: 61.67% 
+False Positive: 5.00% - False Negative: 2.67%
+Fitness Value: 92.25000000000001
+________________________________________________
+True Positive: 29.33% - True Negative: 65.67% 
+False Positive: 1.00% - False Negative: 4.00%
+Fitness Value: 93.25
+________________________________________________
+True Positive: 29.33% - True Negative: 65.67% 
+False Positive: 1.00% - False Negative: 4.00%
+Fitness Value: 93.25
+________________________________________________
+True Positive: 30.33% - True Negative: 62.00% 
+False Positive: 4.67% - False Negative: 3.00%
+Fitness Value: 92.0
+________________________________________________
+True Positive: 30.33% - True Negative: 62.00% 
+False Positive: 4.67% - False Negative: 3.00%
+Fitness Value: 92.0
+________________________________________________
+True Positive: 32.33% - True Negative: 63.67% 
+False Positive: 3.00% - False Negative: 1.00%
+Fitness Value: 96.24999999999999
+________________________________________________
+True Positive: 32.33% - True Negative: 63.67% 
+False Positive: 3.00% - False Negative: 1.00%
+Fitness Value: 96.24999999999999
+________________________________________________
+True Positive: 30.67% - True Negative: 63.00% 
+False Positive: 3.67% - False Negative: 2.67%
+Fitness Value: 93.25
+________________________________________________
+True Positive: 30.67% - True Negative: 63.00% 
+False Positive: 3.67% - False Negative: 2.67%
+Fitness Value: 93.25
+________________________________________________
+True Positive: 29.67% - True Negative: 63.33% 
+False Positive: 3.33% - False Negative: 3.67%
+Fitness Value: 92.0
+________________________________________________
+True Positive: 29.67% - True Negative: 63.33% 
+False Positive: 3.33% - False Negative: 3.67%
+Fitness Value: 92.0
+________________________________________________
+True Positive: 31.00% - True Negative: 64.00% 
+False Positive: 2.67% - False Negative: 2.33%
+Fitness Value: 94.5
+________________________________________________
+True Positive: 31.00% - True Negative: 64.00% 
+False Positive: 2.67% - False Negative: 2.33%
+Fitness Value: 94.5
+________________________________________________
+True Positive: 31.33% - True Negative: 62.67% 
+False Positive: 4.00% - False Negative: 2.00%
+Fitness Value: 94.0
+________________________________________________
+True Positive: 31.33% - True Negative: 62.67% 
+False Positive: 4.00% - False Negative: 2.00%
+Fitness Value: 94.0
+________________________________________________
+True Positive: 30.33% - True Negative: 63.67% 
+False Positive: 3.00% - False Negative: 3.00%
+Fitness Value: 93.25
+________________________________________________
+True Positive: 30.33% - True Negative: 63.67% 
+False Positive: 3.00% - False Negative: 3.00%
+Fitness Value: 93.25
+________________________________________________
+True Positive: 31.00% - True Negative: 63.67% 
+False Positive: 3.00% - False Negative: 2.33%
+Fitness Value: 94.25
+________________________________________________
+True Positive: 31.00% - True Negative: 63.67% 
+False Positive: 3.00% - False Negative: 2.33%
+Fitness Value: 94.25
+________________________________________________
+True Positive: 32.33% - True Negative: 63.67% 
+False Positive: 3.00% - False Negative: 1.00%
+Fitness Value: 96.24999999999999
+________________________________________________
+True Positive: 32.33% - True Negative: 63.67% 
+False Positive: 3.00% - False Negative: 1.00%
+Fitness Value: 96.24999999999999
+________________________________________________

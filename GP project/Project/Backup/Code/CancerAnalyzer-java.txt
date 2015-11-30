@@ -1,0 +1,215 @@
+/*
+  Copyright 2006 by Sean Luke
+  Licensed under the Academic Free License version 3.0
+  See the file "LICENSE" for more information
+*/
+
+
+package ec.app.BreastCancer;
+import ec.util.*;
+import ec.*;
+import ec.gp.*;
+import static ec.gp.GPProblem.P_DATA;
+import ec.gp.koza.*;
+import ec.simple.*;
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.UnsupportedEncodingException;
+import java.text.DecimalFormat;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+
+public class CancerAnalyzer extends GPProblem implements SimpleProblemForm
+{
+    private static final long serialVersionUID = 1;
+    
+    // defined parameters for terminals:
+    public int ClumpThickness;
+    public int UniformityOfCellSize;
+    public int UniformityOfCellShape;
+    public int MarginalAdhesion;
+    public int SingleEpithelialCellSize;
+    public int BareNuclei;
+    public int BlandChromatin;
+    public int NormalNucleoli;
+    public int Mitoses;
+    
+    // Create a list to store data set:
+    List<int[]> BCWdataSet_tr = new ArrayList<int[]>();  // for training input
+    List<int[]> BCWdataSet_ts = new ArrayList<int[]>();  // for testing input
+
+    public void setup(final EvolutionState state, final Parameter base)
+    {
+        super.setup(state, base);
+
+        // verify our input is the right class (or subclasses from it)
+        if (!(input instanceof DoubleData))
+            state.output.fatal("GPData class must subclass from " + DoubleData.class,
+                base.push(P_DATA), null);
+        // Here I will read the data from input and shuffle them:
+        try {
+
+            BufferedReader reader = new BufferedReader(new FileReader("C:\\Users\\ae13cu\\Documents\\NetBeansProjects\\GP project\\TrainingInput.txt"));
+            String line;
+            String[] numbers;
+            int index = 0;
+
+            while((line = reader.readLine()) != null)
+            {
+                int[] inumbers = new int[11]; // inumbers means integer numbers
+                numbers = line.split(",");
+                // converting the line to an array of integer (which represents our 10 input and the answer)
+                for(int i=0;i<11;i++) 
+                {
+                    inumbers[i] = Integer.valueOf(numbers[i]);
+                }
+                BCWdataSet_tr.add(inumbers);
+            }
+            
+            reader = new BufferedReader(new FileReader("C:\\Users\\ae13cu\\Documents\\NetBeansProjects\\GP project\\TestingInput.txt"));
+            while((line = reader.readLine()) != null)
+            {
+                int[] inumbers = new int[11]; // inumbers means integer numbers
+                numbers = line.split(",");
+                // converting the line to an array of integer (which represents our 10 input and the answer)
+                for(int i=0;i<11;i++) 
+                {
+                    inumbers[i] = Integer.valueOf(numbers[i]);
+                }
+                BCWdataSet_ts.add(inumbers);
+            }
+            
+        } catch (FileNotFoundException ex) {
+            Logger.getLogger(CancerAnalyzer.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (IOException ex) {
+            Logger.getLogger(CancerAnalyzer.class.getName()).log(Level.SEVERE, null, ex);
+        }
+        // now I shuffle the data table (my list):
+        Collections.shuffle(BCWdataSet_tr);
+        Collections.shuffle(BCWdataSet_ts);
+        
+    }
+    
+    /**** TRAINING ****/
+    public void evaluate(final EvolutionState state, final Individual ind, final int subpopulation, final int threadnum)
+    {
+        if (!ind.evaluated)  // don't bother reevaluating
+        {
+            DoubleData input = (DoubleData)(this.input);
+
+            int hits = 0;
+            double expectedResult;
+            
+            for (int y=0; y<BCWdataSet_tr.size(); y++)
+            {
+                ClumpThickness = BCWdataSet_tr.get(y)[1];
+                UniformityOfCellShape = BCWdataSet_tr.get(y)[2];
+                UniformityOfCellSize = BCWdataSet_tr.get(y)[3];
+                MarginalAdhesion = BCWdataSet_tr.get(y)[4];
+                SingleEpithelialCellSize = BCWdataSet_tr.get(y)[5];
+                BareNuclei = BCWdataSet_tr.get(y)[6];
+                BlandChromatin = BCWdataSet_tr.get(y)[7];
+                NormalNucleoli = BCWdataSet_tr.get(y)[8];
+                Mitoses = BCWdataSet_tr.get(y)[9];
+                expectedResult = BCWdataSet_tr.get(y)[10];
+                
+                ((GPIndividual)ind).trees[0].child.eval(
+                    state,threadnum,input,stack,((GPIndividual)ind),this);
+
+                if((input.x <=0  && expectedResult==2) || (input.x > 0 && expectedResult==4))   
+                    hits++;
+            }
+
+            double fitnessValue = (double)hits/BCWdataSet_tr.size();
+            SimpleFitness f = (SimpleFitness)ind.fitness;
+            f.setFitness(state, (float)fitnessValue, fitnessValue>=0.99);
+            ind.evaluated = true;
+        }
+    }
+    
+    /**** TESTING ****/
+    public void describe(final EvolutionState state, final Individual ind, final int subpopulation, final int threadnum, int log)
+    {
+        DoubleData input = (DoubleData)(this.input);
+
+        int hits = 0;
+        double expectedResult;
+        int tp = 0, tn = 0, fp = 0, fn = 0;
+
+        for (int y=0; y<BCWdataSet_ts.size(); y++)
+        {
+            ClumpThickness = BCWdataSet_ts.get(y)[1];
+            UniformityOfCellShape = BCWdataSet_ts.get(y)[2];
+            UniformityOfCellSize = BCWdataSet_ts.get(y)[3];
+            MarginalAdhesion = BCWdataSet_ts.get(y)[4];
+            SingleEpithelialCellSize = BCWdataSet_ts.get(y)[5];
+            BareNuclei = BCWdataSet_ts.get(y)[6];
+            BlandChromatin = BCWdataSet_ts.get(y)[7];
+            NormalNucleoli = BCWdataSet_ts.get(y)[8];
+            Mitoses = BCWdataSet_ts.get(y)[9];
+            expectedResult = BCWdataSet_ts.get(y)[10];
+
+            ((GPIndividual)ind).trees[0].child.eval(
+                state,threadnum,input,stack,((GPIndividual)ind),this);
+
+            
+            if(input.x <= 0)
+            {
+                if(expectedResult==2)
+                {
+                    hits++;
+                    tn++;
+                }
+                else
+                    fn++;
+            }
+            else if(expectedResult==4)
+            {
+                hits++;
+                tp++;
+            }
+            else
+                fp++;
+            
+        }
+
+        double fitnessValue = ((double)tn/200 + (double)tp/100)*50;
+        SimpleFitness f = (SimpleFitness)ind.fitness;
+        f.setFitness(state, (float)fitnessValue, fitnessValue>=99);
+        ind.evaluated = true;
+        
+        BufferedWriter out = null;
+        try  
+        {
+            DecimalFormat df = new DecimalFormat("####0.00");
+            FileWriter fstream = new FileWriter("result.txt", true); //true tells to append data.
+            out = new BufferedWriter(fstream);
+            out.write("True Positive: "+df.format(((double)tp/300)*100)+"% - True Negative: "+df.format(((double)tn/300)*100)+"% \r\nFalse Positive: "+df.format(((double)fp/300)*100)+"% - False Negative: "+df.format(((double)fn/300)*100)+"%");
+            out.write("\r\nFitness Value: "+fitnessValue);
+            out.write("\r\n________________________________________________\r\n");
+        }
+        catch (IOException e)
+        {
+            System.err.println("Error: " + e.getMessage());
+        }
+        finally
+        {
+            if(out != null) {
+                try {
+                    out.close();
+                } catch (IOException ex) {
+                    Logger.getLogger(CancerAnalyzer.class.getName()).log(Level.SEVERE, null, ex);
+                }
+            }
+        }
+        
+    }
+}
+

@@ -1,0 +1,8 @@
+ec.coevolve.NRandomOneWayCompetitiveEvaluatorThread
+ec.coevolve.EncapsulatedIndividual
+ec.coevolve.RoundRobinCompetitiveEvaluatorThread
+ec.coevolve.IndComparator
+ec.coevolve.NRandomTwoWayCompetitiveEvaluatorThread
+ec.coevolve.IndividualAndVictories
+ec.coevolve.CompetitiveEvaluatorThread
+ec.coevolve.CompetitiveEvaluator

@@ -1,0 +1,95 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7802149
+Tree 0:
+ (COS (+ (MAX UCSH BN) (MAX BN MA)))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7802149
+Tree 0:
+ (COS (+ (MAX UCSH BN) (MAX BN MA)))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7802149
+Tree 0:
+ (COS (+ (MAX UCSH BN) (MAX BN MA)))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7802149
+Tree 0:
+ (COS (+ (MAX UCSH BN) (MAX BN MA)))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7802149
+Tree 0:
+ (COS (+ (MAX UCSH BN) (MAX BN MA)))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7802149
+Tree 0:
+ (COS (+ (MAX UCSH BN) (MAX BN MA)))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7802149
+Tree 0:
+ (COS (+ (MAX UCSH BN) (MAX BN MA)))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7802149
+Tree 0:
+ (COS (+ (MAX UCSH BN) (MAX BN MA)))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7802149
+Tree 0:
+ (COS (+ (MAX UCSH BN) (MAX BN MA)))
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7802149
+Tree 0:
+ (COS (+ (MAX UCSH BN) (MAX BN MA)))
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7802149
+Tree 0:
+ (COS (+ (MAX UCSH BN) (MAX BN MA)))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7802149
+Tree 0:
+ (COS (+ (MAX UCSH BN) (MAX BN MA)))

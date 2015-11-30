@@ -1,0 +1,1091 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.8929504
+Tree 0:
+ (- (MIN NN BC) (/ UCSH BN))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.92689294
+Tree 0:
+ (- (* BN UCSH) (/ UCSH BN))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9347258
+Tree 0:
+ (- (* BN UCSH) (/ (+ NN CT) BN))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9321149
+Tree 0:
+ (- (COS (* BC M)) (+ (SIN BC) (MIN M (* (MIN
+     (MAX SECS BN) (- (COS (- BN M)) BN)) (/ UCSH
+     BN)))))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9608355
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ SECS M) (MAX CT
+     BN))) (MIN (* MA CT) (COS (MIN M MA))))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9608355
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ SECS M) (MAX CT
+     BN))) (MIN (* MA CT) (COS (MIN M MA))))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9608355
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ SECS M) (MAX CT
+     BN))) (MIN (SIN (- SECS SECS)) (COS (MIN
+     M MA))))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9608355
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ SECS M) (MAX CT
+     BN))) (MIN (* MA (* BN BN)) (COS (MIN M MA))))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9634465
+Tree 0:
+ (- (- (- (* (- (* BN NN) NN) UCSH) NN) SECS)
+     (/ (MAX SECS BN) BN))
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9634465
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ SECS M) (MAX CT
+     BN))) (MIN (SIN (- (+ SECS M) (+ M M))) (COS
+     (MIN M MA))))
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9634465
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ SECS M) (MAX CT
+     BN))) (MIN (MIN (* (- MA M) (/ UCSH BN))
+     (MAX CT BN)) (COS (MIN M MA))))
+
+Generation: 11
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9686684
+Tree 0:
+ (- (- (- (* BN UCSH) (MAX UCSH UCSH)) (MIN
+     (* MA (- BN UCSH)) (COS (/ UCSH BN)))) (+
+     MA BN))
+
+Generation: 12
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9686684
+Tree 0:
+ (- (- (- (* BN UCSH) (MAX UCSH UCSH)) (MIN
+     (* MA (- BN UCSH)) (COS (MIN M MA)))) (+
+     MA BN))
+
+Generation: 13
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9712794
+Tree 0:
+ (- (- (* BN UCSH) (MAX (MAX CT BN) (MAX CT
+     BN))) (MIN (MIN M (MIN NN BC)) (- SECS (MIN
+     (+ NN NN) (+ (- (- (- (* BN UCSH) (MAX UCSH
+     UCSH)) (MIN (* MA (- BN UCSH)) (COS (/ UCSH
+     BN)))) (+ MA BN)) BN)))))
+
+Generation: 14
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.97389036
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ SECS M) (MAX CT
+     BN))) (MIN (* BN (MAX M UCSH)) (- SECS (MIN
+     (+ NN NN) (+ (- (- (- (MAX CT BN) (MAX UCSH
+     UCSH)) (MIN (* MA (- BN UCSH)) (COS (/ UCSH
+     BN)))) (+ MA BN)) BN)))))
+
+Generation: 15
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.97389036
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ SECS M) (MAX CT
+     BN))) (MIN (* BN (MAX M UCSH)) (- SECS (MIN
+     (+ NN NN) (+ (- (- (- (MAX CT BN) (MAX UCSH
+     UCSH)) (MIN (* MA (- BN UCSH)) (COS (+ M
+     M)))) (+ MA BN)) BN)))))
+
+Generation: 16
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.97389036
+Tree 0:
+ (- (- (* (- (* BN NN) NN) UCSH) (MIN (* MA
+     (- BN UCSH)) (COS (SIN (- BN M))))) (+ (+
+     SECS M) BN))
+
+Generation: 17
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.97389036
+Tree 0:
+ (- (- (* BN UCSH) (MAX SECS (MAX CT BN)))
+     (MIN (MAX (- (* (+ (MIN (/ (+ SECS M) (SIN
+         UCSH)) (COS (MIN M MA))) (MAX UCSH UCSH))
+         (* BN UCSH)) (* (+ MA M) (+ SECS SECS)))
+         (MIN (/ MA (SIN UCSH)) NN)) (COS (MIN M (-
+         BN M)))))
+
+Generation: 18
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9765013
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ SECS M) (MAX CT
+     BN))) (MIN (* BN (MAX M UCSH)) (- SECS (MIN
+     (+ NN NN) (+ (- (- (- (+ SECS SECS) (MAX
+     UCSH UCSH)) (MIN (* MA (- BN UCSH)) (COS
+     (/ CT BC)))) (+ MA BN)) BN)))))
+
+Generation: 19
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.97911227
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ SECS M) (MAX CT
+     BN))) (MIN (MIN (- (* BN UCSH) (MAX (MAX
+     (- (- (COS (MIN M (- BN M))) (MIN (* MA (-
+         BN UCSH)) (COS (MIN M MA)))) (+ MA BN)) (MAX
+     CT BN)) (MAX CT BN))) (- SECS (MIN (+ NN
+     NN) (+ (- (- (- (MAX CT BN) (MAX UCSH UCSH))
+     (MIN (* MA (- (* BN UCSH) (MAX SECS (MAX
+         CT BN)))) (COS (+ M M)))) (+ MA BN)) BN))))
+     (- SECS (MIN (+ NN NN) (+ (- (- (- (MAX CT
+         BN) (MAX UCSH UCSH)) (MIN (* MA (- BN UCSH))
+         (COS (COS (MIN M MA))))) (+ MA BN)) BN)))))
+
+Generation: 20
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.97911227
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ SECS M) (MAX CT
+     BN))) (MIN (MIN (- (* BN UCSH) (MAX (MAX
+     (- (- (COS (MIN M (- BN M))) (MIN (* MA (-
+         BN UCSH)) (COS (MIN M MA)))) (+ MA BN)) (MAX
+     CT BN)) (MAX CT BN))) (- SECS (MIN (+ NN
+     NN) (+ (- (- (- (- BN M) (MAX UCSH UCSH))
+     (MIN (* MA (- (* BN UCSH) (MAX SECS (MAX
+         CT BN)))) (COS (+ M M)))) (+ MA BN)) BN))))
+     (- SECS (MIN (+ NN NN) (+ (- (- (- (MAX CT
+         BN) (MAX UCSH UCSH)) (MIN (* MA (- BN UCSH))
+         (COS (COS (MIN M MA))))) (+ MA BN)) BN)))))
+
+Generation: 21
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.97911227
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ SECS M) (MAX CT
+     BN))) (MIN (MIN (- (* BN UCSH) (MAX (MAX
+     (- (- (COS (MIN M (- BN M))) (MIN (* MA (-
+         BN UCSH)) (COS (MIN M MA)))) (+ MA BN)) (MAX
+     CT BN)) (MAX CT BN))) (- SECS (MIN (+ NN
+     NN) (+ (- (- (- (MAX CT BN) (MAX UCSH UCSH))
+     (MIN (* MA (- (* BN UCSH) (MAX SECS (MAX
+         CT BN)))) (COS (+ M M)))) (+ MA BN)) BN))))
+     (- SECS (MIN (+ NN NN) (+ (- (- (- (MAX CT
+         BN) (MAX UCSH UCSH)) (MIN (* MA (- BN UCSH))
+         (COS (COS (MIN M MA))))) (+ MA BN)) BN)))))
+
+Generation: 22
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.98172325
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ SECS M) (MAX CT
+     BN))) (MIN (MIN (- (* BN UCSH) (MAX (MAX
+     (- (- (COS (MIN M (- BN M))) (MIN (* MA (-
+         BN UCSH)) (+ SECS M))) (+ MA BN)) M) (MAX
+     CT BN))) (- SECS (MIN (+ NN NN) (+ (- (-
+     (- (MAX CT BN) (MAX UCSH UCSH)) (MIN (* MA
+     (- (* BN UCSH) (MAX SECS (MAX CT BN)))) (COS
+     (+ M M)))) (+ MA BN)) BN)))) (- SECS (MIN
+     (+ NN NN) (+ (- (- (- (MAX CT (+ (* (- (/
+     CT BC) UCSH) (+ (* MA (- BN UCSH)) (/ CT
+     BC))) (/ CT BC))) (MAX UCSH UCSH)) (MIN (*
+     MA (- BN UCSH)) (COS (COS (MIN M MA)))))
+     (+ MA BN)) BN)))))
+
+Generation: 23
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.98433423
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ SECS M) (MAX CT
+     BN))) (MIN (MIN (- (* BN UCSH) (MAX (MAX
+     (- (- (COS (MIN M (- BN M))) (MIN (* MA (-
+         BN UCSH)) (+ SECS M))) (+ MA BN)) M) (MAX
+     CT BN))) (- SECS (MIN (+ NN NN) (+ (- (-
+     (- (MAX CT BN) (MAX UCSH UCSH)) (MIN (* MA
+     (- (* BN UCSH) (MAX SECS (MAX CT BN)))) (COS
+     (+ M M)))) (+ MA BN)) BN)))) (- SECS (MIN
+     (+ NN NN) (+ (- (- (- (MAX CT (+ (* (- (/
+     CT BC) UCSH) (+ (* MA (- BN UCSH)) (/ CT
+     BC))) (/ CT BC))) (MAX UCSH UCSH)) (MIN (*
+     MA (- BN UCSH)) (COS (COS (MIN M MA)))))
+     (* BN UCSH)) BN)))))
+
+Generation: 24
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.98433423
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ SECS M) (MAX CT
+     BN))) (MIN (MIN (- (* BN UCSH) (MAX (MAX
+     (- (- (COS (MIN M (- BN M))) (MIN (* MA (-
+         BN UCSH)) (+ SECS M))) (+ MA BN)) M) (MAX
+     CT BN))) (- SECS (MIN (+ NN NN) (+ (- (-
+     (- (MAX CT BN) (MAX UCSH UCSH)) (MIN (* MA
+     (- (* BN UCSH) (MAX SECS (MAX CT BN)))) (COS
+     (+ M M)))) (+ MA BN)) BN)))) (- SECS (MIN
+     (+ NN NN) (+ (- (- (- (MAX CT (+ (* (- (/
+     CT BC) UCSH) (+ (* MA (- BN UCSH)) (/ CT
+     BC))) (/ CT BC))) (MAX UCSH UCSH)) (MIN (*
+     MA (- BN UCSH)) (COS (COS (MIN M MA)))))
+     (* BN UCSH)) BN)))))
+
+Generation: 25
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.98433423
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ SECS M) (MAX CT
+     BN))) (MIN (MIN (- (* BN UCSH) (MAX (MAX
+     (- (- (COS (MIN M (- BN M))) (MIN (* MA (-
+         BN UCSH)) (+ SECS M))) (+ MA BN)) M) (MAX
+     CT BN))) (- SECS (MIN (+ NN NN) (+ (- (-
+     (- (MAX CT BN) (MAX UCSH UCSH)) (MIN (* MA
+     (- (* BN UCSH) (MAX SECS (MAX CT BN)))) (COS
+     (+ M M)))) (+ MA BN)) BN)))) (- SECS (MIN
+     (+ NN NN) (+ (- (- (- (MAX CT (+ (* (- (/
+     CT BC) UCSH) (+ (* MA (- BN UCSH)) (/ CT
+     BC))) (COS (+ M M)))) (MAX UCSH UCSH)) (MIN
+     (* MA (- BN UCSH)) (COS (COS (MIN M MA)))))
+     (* BN UCSH)) BN)))))
+
+Generation: 26
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.98433423
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ SECS M) (MAX CT
+     BN))) (MIN (MIN (- (* BN UCSH) (MAX (MAX
+     (- (- (COS (MIN M (- BN M))) (MIN (* MA (-
+         BN UCSH)) (+ SECS M))) (+ MA BN)) M) (MAX
+     CT BN))) (- SECS (MIN (+ NN NN) (+ (- (-
+     (- (MAX CT BN) (MAX UCSH UCSH)) (MIN (* MA
+     (- (* BN UCSH) (MAX SECS (MAX CT BN)))) (COS
+     (+ M M)))) (+ MA BN)) BN)))) (- SECS (MIN
+     (+ NN NN) (+ (- (- (- (MAX (MIN M MA) (+
+     (* (- (/ CT BC) UCSH) (+ (* MA (- BN UCSH))
+         (/ CT BC))) (/ CT BC))) (MAX UCSH UCSH))
+     (MIN (* MA (- BN UCSH)) (COS (COS (MIN M
+         MA))))) (* BN UCSH)) BN)))))
+
+Generation: 27
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.98694515
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ SECS M) (MAX CT
+     BN))) (MIN (MIN (- (* BN UCSH) (MAX (MAX
+     (- (- (COS (MIN M (- (MIN (* MA (- BN UCSH))
+         (+ SECS M)) M))) (MIN (* (+ MA BN) (- BN
+         UCSH)) (+ SECS M))) (+ MA BN)) (MAX CT BN))
+     (- (- (MAX CT BN) (MAX UCSH UCSH)) (- BN
+         UCSH)))) (- SECS (MIN (+ NN NN) (+ (- (-
+     (- (MAX CT BN) (MAX UCSH UCSH)) (MIN (* MA
+     (- (* BN UCSH) (MAX SECS (MAX CT BN)))) (COS
+     (+ M M)))) (+ MA MA)) BN)))) (- SECS (MIN
+     (+ NN NN) (+ (- (COS (MIN M (- BN M))) (+
+     MA BN)) BN)))))
+
+Generation: 28
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.98694515
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ SECS M) (MAX CT
+     BN))) (MIN (MIN (- (* BN UCSH) (MAX (MAX
+     (- (- (COS (MIN M (- BN M))) (MIN (* MA (-
+         BN UCSH)) (+ (- (- (- (MAX CT BN) (MAX UCSH
+         UCSH)) (MIN (* MA (- BN UCSH)) (COS (COS
+         (+ MA BN))))) (+ MA BN)) BN))) (+ MA BN))
+     M) (MAX CT BN))) (- SECS (MIN (+ NN NN) (+
+     (- (- (- (MAX CT BN) (MAX UCSH UCSH)) (MIN
+         (* MA (- (* BN UCSH) (MAX SECS (MAX CT BN))))
+         (COS (+ M M)))) (+ MA BN)) BN)))) (- SECS
+     (MIN (+ NN NN) (+ (- (- (- (MAX CT (+ (*
+         (- (/ CT BC) UCSH) (+ (* MA (- BN UCSH))
+         (/ CT BC))) (/ CT BC))) (/ UCSH BN)) (MIN
+         (* MA (- BN UCSH)) (COS (COS (COS (COS (MIN
+         M MA))))))) (* BN UCSH)) BN)))))
+
+Generation: 29
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.98694515
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ SECS M) (MAX CT
+     BN))) (MIN (MIN (- (* BN UCSH) (MAX (MAX
+     (- (- (COS (MIN M (- BN M))) (MIN (* MA (-
+         BN UCSH)) (+ SECS M))) (+ MA BN)) (- (- (COS
+     (MIN M (- BN M))) (MIN (* MA (- BN UCSH))
+     (+ SECS M))) (+ MA BN))) (MAX CT BN))) (-
+     SECS (MIN (+ NN NN) (+ (- (- (- (MAX CT BN)
+     (MAX UCSH UCSH)) (MIN (* MA (- (* BN UCSH)
+     (* (- MA M) (/ UCSH BN)))) (COS (+ M M))))
+     (+ MA BN)) BN)))) (- SECS (MIN (+ NN NN)
+     (+ (- (- (- (MAX CT (+ (* (- (/ CT BC) UCSH)
+         (+ (* MA (- BN UCSH)) (/ CT BC))) (/ CT BC)))
+         (MAX UCSH UCSH)) (MIN (COS (+ M M)) (COS
+         (COS (MIN M MA))))) (* BN UCSH)) BN)))))
+
+Generation: 30
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.98694515
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ SECS M) (MAX CT
+     BN))) (MIN (MIN (- (* BN UCSH) (MAX (MAX
+     (- (- (COS (MIN M (- BN M))) (MIN (* MA (-
+         BN UCSH)) (+ SECS M))) (+ MA BN)) M) (MAX
+     CT BN))) (- SECS (MIN (+ NN NN) (+ (- (-
+     (- (MAX CT BN) (MAX UCSH UCSH)) (MIN (* MA
+     (- (* BN UCSH) (MAX SECS (MAX CT BN)))) (COS
+     (+ M M)))) (+ MA BN)) BN)))) (- SECS (MIN
+     (+ NN NN) (+ (- (- (- (MAX CT (+ (* (- (/
+     CT BC) UCSH) (+ (* MA (- BN UCSH)) (/ CT
+     BC))) (MAX (- (- (COS (MIN M (- BN M))) (MIN
+     (* MA (- BN UCSH)) (+ SECS M))) (+ MA BN))
+     M))) (MAX UCSH UCSH)) (MIN (* MA (- BN UCSH))
+     (COS (- (- (MAX CT BN) (MAX UCSH UCSH)) (MIN
+         (* MA (- BN UCSH)) (COS (COS (MIN M MA))))))))
+     (* BN UCSH)) BN)))))
+
+Generation: 31
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.98694515
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ SECS M) (MAX CT
+     BN))) (MIN (MIN (- (* BN UCSH) (MAX (MAX
+     (- (- (COS (MIN M (- BN M))) (MIN (* MA (-
+         BN UCSH)) (MIN (* MA (- BN UCSH)) (+ SECS
+         M)))) (+ MA BN)) M) (MAX CT BN))) (- SECS
+     (MIN (+ NN NN) (+ (- (- (- (MAX CT BN) (MAX
+         UCSH UCSH)) (MIN (* MA (- (* (MAX UCSH UCSH)
+         UCSH) (MAX SECS (COS (COS (MIN M MA))))))
+         (COS (+ M M)))) (+ MA BN)) BN)))) (- SECS
+     (MIN (+ NN NN) (+ (- (- (- (MAX CT (+ (*
+         (- (/ CT BC) UCSH) (+ (* MA (- BN UCSH))
+         (/ CT BC))) (/ CT BC))) (MAX UCSH UCSH))
+         (MIN (* MA (- BN UCSH)) (COS (COS (COS (COS
+             (MIN M MA))))))) (* BN UCSH)) BN)))))
+
+Generation: 32
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.98955613
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ (MIN (MIN (- (*
+     BN UCSH) (MAX (MAX (- (- (COS (MIN M (+ MA
+     BN))) (MIN (* MA (- BN UCSH)) (COS (+ (+
+     M M) BC)))) (+ MA BN)) (MAX CT BN)) (MAX
+     CT BN))) (- SECS (MIN (+ NN NN) (+ (- (-
+     (MAX CT BN) (- (* (- MA M) CT) (COS (* BN
+     (MAX M UCSH))))) (+ MA BN)) BN)))) (- SECS
+     (MIN (+ NN NN) (+ (- (MIN (+ M M) (- M UCSH))
+         (+ MA BN)) BN)))) M) (MAX CT BN))) (MIN (MIN
+     (- (* BN UCSH) (MAX (MAX (- (- (COS (+ (*
+         (- (/ CT BC) UCSH) (+ (* MA (- BN UCSH))
+         (/ CT BC))) (/ CT BC))) (MIN (* MA (- BN
+         UCSH)) (+ (- (- (- (MAX CT BN) (MAX UCSH
+         UCSH)) (MIN (* MA (- BN UCSH)) (COS (COS
+         (+ MA BN))))) (+ MA BN)) BN))) (+ MA BN))
+         M) (MAX CT BN))) (- SECS (MIN (+ NN NN) (+
+     (- (- (- (MAX CT BN) (MAX UCSH UCSH)) (MIN
+         (* MA (- (* BN UCSH) (MAX SECS (MAX CT BN))))
+         (COS (+ M M)))) (+ MA BN)) BN)))) (- SECS
+     (MIN (+ NN NN) (+ (- (- (- (MAX CT (+ (*
+         (- (/ CT BC) UCSH) (+ (* MA (- BN UCSH))
+         (/ CT BC))) (/ CT BC))) (/ UCSH BN)) (MIN
+         (* MA (- BN UCSH)) (COS (COS (COS (COS (MIN
+         M MA))))))) (* BN UCSH)) BN)))))
+
+Generation: 33
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9921671
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ (MIN (MIN (- (*
+     BN UCSH) (MAX (MAX (- (- (COS (MIN M (+ MA
+     BN))) (MIN (* MA (- BN UCSH)) (COS (+ (+
+     M M) BC)))) (+ MA BN)) (MAX CT BN)) (MAX
+     CT BN))) (- SECS (MIN (+ NN NN) (+ (- (-
+     (MAX CT BN) (- (* (- MA M) CT) (COS (* BN
+     (MAX M UCSH))))) (+ MA BN)) BN)))) (- SECS
+     (MIN (+ NN NN) (+ (- (MIN (+ M M) (- M UCSH))
+         (+ MA BN)) BN)))) M) (MAX CT BN))) (MIN (MIN
+     (- (* BN UCSH) (MAX (MAX (- (- (COS (+ (*
+         (- (/ CT BC) UCSH) (+ (* MA (- BN UCSH))
+         (/ CT BC))) (/ CT BC))) (MIN (* MA (- BN
+         UCSH)) (+ (- (- (- (MAX CT BN) (MAX UCSH
+         UCSH)) (MIN (* MA (- BN UCSH)) (COS (COS
+         (+ MA BN))))) (+ MA BN)) BN))) (+ MA BN))
+         M) (MAX CT BN))) (- SECS (MIN (+ NN NN) (+
+     (- (- (- (MAX CT BN) (MAX UCSH UCSH)) (COS
+         (- (- (MAX CT BN) (MAX UCSH UCSH)) (MIN (*
+             MA (- BN UCSH)) (COS (COS (MIN M MA)))))))
+         (+ MA BN)) BN)))) (- SECS (MIN (+ NN NN)
+     (+ (- (- (- (MAX CT (+ (* (- (/ CT BC) UCSH)
+         (+ (* MA (- BN UCSH)) (/ CT BC))) (/ CT BC)))
+         (/ UCSH BN)) (MIN (* MA (- BN UCSH)) (COS
+         (COS (COS (COS (MIN M MA))))))) (* BN UCSH))
+         BN)))))
+
+Generation: 34
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9921671
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ (MIN (MIN (- (*
+     BN UCSH) (MAX (MAX (- (- (COS (MIN M (+ MA
+     BN))) (MIN (* MA (- BN UCSH)) (COS (+ (+
+     M M) BC)))) (+ MA BN)) (MAX CT BN)) (MAX
+     CT BN))) (- SECS (MIN (+ NN NN) (+ (- (-
+     (MAX CT BN) (- (* (- MA M) CT) (COS (* BN
+     (MAX M UCSH))))) (+ MA BN)) BN)))) (- SECS
+     (MIN (+ NN NN) (+ (- (MIN (+ M M) (- M UCSH))
+         (+ MA BN)) BN)))) M) (MAX CT BN))) (MIN (MIN
+     (- (* BN UCSH) (MAX (MAX (- (- (COS (+ (*
+         (- (/ CT BC) UCSH) (+ (* MA (- BN UCSH))
+         (/ CT BC))) (/ CT BC))) (MIN (* MA (- BN
+         UCSH)) (+ (- (- (- (MAX CT BN) (MAX UCSH
+         UCSH)) (MIN (* MA (- BN UCSH)) (COS (COS
+         (+ MA BN))))) (+ MA BN)) BN))) (+ MA BN))
+         M) (MAX CT BN))) (- SECS (MIN (+ NN NN) (+
+     (- (- (- (MAX CT BN) (MAX UCSH UCSH)) (COS
+         (- (- (MAX CT BN) (MAX UCSH UCSH)) (MIN (*
+             MA (MIN M (- BN M))) (COS (COS (MIN M MA)))))))
+         (+ MA BN)) BN)))) (- SECS (MIN (+ NN NN)
+     (+ (- (- (- (MAX CT (+ (* (- (/ CT BC) UCSH)
+         (+ (* MA (- BN UCSH)) (/ CT BC))) (/ CT BC)))
+         (/ UCSH BN)) (MIN (* MA (- BN UCSH)) (COS
+         (COS (COS (COS (MIN M MA))))))) (* BN UCSH))
+         BN)))))
+
+Generation: 35
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9921671
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ (MIN (MIN (- (*
+     BN UCSH) (MAX (MAX (- (- (COS (MIN M (+ MA
+     BN))) (MIN (* MA (- BN UCSH)) (COS (+ (+
+     M M) BC)))) (+ MA BN)) (MAX CT BN)) (MAX
+     CT BN))) (- SECS (MIN (+ NN NN) (+ (- (-
+     (MAX CT BN) (- (* (- MA M) CT) (COS (* BN
+     (MAX M UCSH))))) (+ MA BN)) BN)))) (- SECS
+     (MIN (+ NN NN) (+ (- (MIN (+ M M) (- M UCSH))
+         (+ MA BN)) BN)))) M) (MAX CT BN))) (MIN (MIN
+     (- (* BN UCSH) (MAX (MAX (- (- (COS (+ (*
+         (- (/ CT BC) UCSH) (+ (* MA (- BN UCSH))
+         (/ CT BC))) (/ CT BC))) (MIN (* MA (- BN
+         UCSH)) (+ (- (- (- (MAX CT BN) (MAX UCSH
+         UCSH)) (MIN (* MA (- BN UCSH)) (COS (COS
+         (+ MA BN))))) (+ MA BN)) BN))) (+ MA BN))
+         M) (MAX CT BN))) (- SECS (MIN (+ NN NN) (+
+     (- (- (- (MAX CT BN) (MAX UCSH UCSH)) (COS
+         (- (- (MAX CT BN) (MAX UCSH UCSH)) (MIN (*
+             MA (- BN UCSH)) (COS (COS (MIN M MA)))))))
+         (+ MA BN)) BN)))) (- SECS (MIN (+ NN NN)
+     (+ (- (- (- (MAX CT (+ (* (- (/ CT BC) UCSH)
+         (+ (* MA (- BN UCSH)) (/ CT BC))) (/ CT BC)))
+         (/ UCSH BN)) (MIN (* MA (- BN UCSH)) (COS
+         (COS (COS (COS (MIN M MA))))))) (* BN UCSH))
+         BN)))))
+
+Generation: 36
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9921671
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ (MIN (MIN (- (*
+     BN UCSH) (MAX (MAX (- (- (COS (MIN M (+ MA
+     BN))) (MIN (* MA (- BN UCSH)) (COS (+ (+
+     M M) BC)))) (+ MA BN)) (MAX CT BN)) (MAX
+     CT BN))) (- SECS (MIN (+ NN NN) (+ (- (-
+     (MAX CT BN) (- (* (- MA M) CT) (COS (* BN
+     (MAX M UCSH))))) (+ MA BN)) BN)))) (- SECS
+     (MIN (+ NN NN) (+ (- (MIN (+ M M) (- M UCSH))
+         (+ MA BN)) BN)))) M) (MAX CT BN))) (MIN (MIN
+     (- (* BN UCSH) (MAX (MAX (- (- (COS (+ (*
+         (- (/ CT BC) UCSH) (+ (* MA (- BN UCSH))
+         (/ CT BC))) (/ CT BC))) (MIN (* MA (- BN
+         UCSH)) (+ (- (- (- (MAX CT BN) (MAX UCSH
+         UCSH)) (MIN (* MA (- BN UCSH)) (COS (COS
+         (+ MA BN))))) (+ MA BN)) BN))) (+ MA BN))
+         M) (MAX CT BN))) (- SECS (MIN (+ NN NN) (+
+     (- (- (- (MAX CT BN) (MAX UCSH UCSH)) (COS
+         (- (- (MAX CT BN) (MAX UCSH UCSH)) (MIN (*
+             MA (- BN UCSH)) (COS (COS (MIN M MA)))))))
+         (+ MA BN)) BN)))) (- SECS (MIN (+ NN NN)
+     (+ (- (- (- (MAX CT (+ (* (- (/ CT BC) UCSH)
+         (+ (* MA (- BN UCSH)) (/ CT BC))) (/ CT BC)))
+         (/ UCSH BN)) (MIN (* MA (- BN UCSH)) (COS
+         (COS (COS (COS (MIN M MA))))))) (* BN UCSH))
+         BN)))))
+
+Generation: 37
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9921671
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ (MIN (MIN (- (*
+     BN UCSH) (MAX (MAX (- (- (COS (MIN M (COS
+     (+ M M)))) (MIN (* MA (- BN UCSH)) (COS (+
+     (+ M M) BC)))) (+ MA BN)) (MAX CT BN)) (MAX
+     CT BN))) (- SECS (MIN (+ NN NN) (+ (- (-
+     (MAX CT BN) (- (* (- MA M) CT) (COS (* BN
+     (MAX M UCSH))))) (+ MA BN)) BN)))) (- SECS
+     (MIN (+ NN NN) (+ (- (MIN (+ M M) (- M UCSH))
+         (+ MA BN)) BN)))) M) (MAX CT BN))) (MIN (MIN
+     (- (* BN UCSH) (MAX (MAX (- (- (COS (+ (*
+         (- (/ CT BC) UCSH) (+ (* MA (- BN UCSH))
+         (/ CT BC))) (/ CT BC))) (MIN (* MA (- BN
+         UCSH)) (+ (- (MIN M (- BN M)) (+ MA BN))
+         BN))) (+ MA BN)) M) (MAX CT BN))) (- SECS
+     (MIN (+ NN NN) (+ (- (- (- (MAX CT BN) (MAX
+         UCSH UCSH)) (COS (- (- (MAX CT BN) (MAX UCSH
+         UCSH)) (MIN (* MA (- BN UCSH)) (COS (COS
+         (MIN M MA))))))) (+ MA BN)) BN)))) (- SECS
+     (MIN (+ NN NN) (+ (- (- (- (MAX CT (+ (*
+         (- (/ CT BC) UCSH) (+ (* MA (- BN UCSH))
+         (/ CT BC))) (/ CT BC))) (/ UCSH BN)) (MIN
+         (* MA (- BN UCSH)) (COS (COS (COS (COS (MIN
+         M MA))))))) (* BN UCSH)) BN)))))
+
+Generation: 38
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9921671
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ (MIN (MIN (- (*
+     BN UCSH) (MAX (MAX (- (- (COS (MIN M (+ MA
+     BN))) (MIN (* MA (- BN UCSH)) (COS (+ (+
+     M M) BC)))) (+ MA BN)) (MAX CT BN)) (MAX
+     CT BN))) (- SECS (MIN (+ NN MA) (+ (- (-
+     (MAX CT BN) (- (* (- MA M) CT) (COS (* BN
+     (MAX M UCSH))))) (+ MA BN)) BN)))) (- SECS
+     (MIN (+ NN NN) (+ (- (MIN (+ M M) (- M UCSH))
+         (+ MA BN)) BN)))) M) (MAX CT BN))) (MIN (MIN
+     (- (* BN UCSH) (MAX (MAX (- (- (COS (+ (*
+         (- (/ CT BC) UCSH) (+ (* MA (- BN UCSH))
+         (/ CT BC))) (/ CT BC))) (MIN (* MA (- BN
+         UCSH)) (+ (- (- (- (MAX CT BN) (MAX UCSH
+         UCSH)) (MIN (* MA (- BN UCSH)) (COS (COS
+         (+ MA BN))))) (+ MA BN)) BN))) (+ MA BN))
+         M) (MAX CT BN))) (- SECS (MIN (+ NN NN) (+
+     (- (- (- (MAX CT BN) (MAX UCSH UCSH)) (COS
+         (- (- (MAX CT BN) (MAX UCSH UCSH)) (MIN (*
+             MA (- BN UCSH)) (COS (COS (MIN M MA)))))))
+         (+ MA BN)) BN)))) (- SECS (MIN (+ NN NN)
+     (+ (- (- (- (MAX CT (+ (* (- (/ CT BC) UCSH)
+         (+ (* MA (- BN UCSH)) (/ CT BC))) (/ CT BC)))
+         (/ UCSH BN)) (MIN (* MA (- BN UCSH)) (COS
+         (COS (COS (COS (MIN M MA))))))) (* BN UCSH))
+         BN)))))
+
+Generation: 39
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9921671
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ (MIN (MIN (- (*
+     BN UCSH) (MAX (MAX (- (- (COS (MIN M (+ MA
+     BN))) (MIN (* MA (- BN UCSH)) (COS (+ (+
+     M M) BC)))) (+ MA BN)) (MAX CT BN)) (MAX
+     CT BN))) (- SECS (MIN (+ NN NN) (+ (- (-
+     (MAX CT BN) (- (* (- MA M) CT) (COS (* BN
+     (MAX M UCSH))))) (+ MA BN)) BN)))) (- SECS
+     (MIN (+ NN NN) (+ (- (MIN (+ M M) (- M UCSH))
+         (+ MA BN)) BN)))) M) (MAX CT BN))) (MIN (MIN
+     (- (* BN UCSH) (MAX (MAX (- (- (COS (+ (*
+         (- (/ CT BC) UCSH) (+ (* MA (- BN UCSH))
+         (/ CT (* (- MA M) CT)))) (/ CT BC))) (MIN
+         (* MA (- BN UCSH)) (+ (- (- (- (MAX CT BN)
+         (MAX UCSH UCSH)) (MIN (* MA (- BN UCSH))
+         (COS (COS (+ MA BN))))) (+ MA BN)) BN)))
+         (+ MA BN)) M) (MAX CT BN))) (- SECS (MIN
+     (+ NN NN) (+ (- (- (- (MAX CT BN) (MAX UCSH
+     UCSH)) (COS (- (- (MAX CT BN) (MAX UCSH UCSH))
+     (MIN (* MA (- BN UCSH)) (COS (COS (MIN M
+         MA))))))) (+ MA BN)) BN)))) (- SECS (MIN
+     (+ NN NN) (+ (- (- (- (MAX CT (+ (* (- (/
+     CT BC) UCSH) (+ (* MA (- BN UCSH)) (/ CT
+     BC))) (/ CT BC))) (/ UCSH BN)) (MIN (* MA
+     (- BN UCSH)) (COS (COS (COS (COS (MIN M MA)))))))
+     (* BN UCSH)) BN)))))
+
+Generation: 40
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9921671
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ (MIN (MIN (- (*
+     BN UCSH) (MAX (MAX (- (- (COS (MIN M (+ MA
+     BN))) (MIN (* MA (- BN UCSH)) (COS (+ (+
+     M M) BC)))) (+ MA BN)) (MAX CT BN)) (MAX
+     CT BN))) (- SECS (MIN (+ NN NN) (+ (- (-
+     (MAX CT BN) (- (* (- MA M) CT) (COS (* BN
+     (MAX M UCSH))))) (+ MA BN)) BN)))) (- SECS
+     (MIN (+ NN NN) (+ (- (MIN (+ M M) (- M UCSH))
+         (+ MA BN)) BN)))) M) (MAX CT BN))) (MIN (MIN
+     (- (* BN UCSH) (MAX (MAX (- (- (COS (+ (*
+         BN UCSH) (/ CT BC))) (MIN (* MA (- BN UCSH))
+         (+ (- (- (- (MAX CT BN) (MAX UCSH UCSH))
+             (MIN (* MA (- BN UCSH)) (COS (COS (+ MA BN)))))
+             (COS (MIN M (- BN M)))) BN))) (+ MA BN))
+         M) (MAX CT BN))) (- SECS (MIN (+ NN NN) (+
+     (- (- (- (MAX CT BN) (MAX UCSH UCSH)) (COS
+         (- (- (MAX CT BN) (MAX UCSH UCSH)) (MIN (*
+             MA (- BN UCSH)) (COS (COS (MIN M MA)))))))
+         (+ MA BN)) BN)))) (- SECS (MIN (+ NN NN)
+     (+ (- (- (- (MAX CT (+ (* (- (/ CT BC) UCSH)
+         (+ (* MA (- BN UCSH)) (/ CT BC))) (/ CT BC)))
+         (/ UCSH BN)) (MIN (* MA (- BN UCSH)) (COS
+         (COS (COS (COS (MIN M MA))))))) (* BN UCSH))
+         BN)))))
+
+Generation: 41
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9921671
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ (MIN (MIN (- (*
+     BN UCSH) (MAX (MAX (- (- (COS (MIN M (+ MA
+     BN))) (MIN (* MA (- BN UCSH)) (COS (+ (+
+     M M) BC)))) (+ MA BN)) (MAX CT BN)) (MAX
+     CT BN))) (- SECS (MIN (+ NN MA) (+ (- (-
+     (MAX CT BN) (- (* (- MA M) CT) (COS (* BN
+     (MAX M UCSH))))) (+ MA BN)) BN)))) (- SECS
+     (MIN (+ NN NN) (+ (- (MIN (+ M M) (- M UCSH))
+         (+ MA BN)) BN)))) M) (MAX CT BN))) (MIN (MIN
+     (- (* BN UCSH) (MAX (MAX (- (- (COS (+ (*
+         (+ (* (- (/ CT BC) UCSH) (+ (* MA (- BN UCSH))
+             (/ CT BC))) (/ CT BC)) (+ (* MA (- BN UCSH))
+         (/ CT BC))) (/ CT BC))) (MIN (* MA (- BN
+         UCSH)) (+ (- (- (- (+ (+ M M) BC) (MAX UCSH
+         UCSH)) (MIN (* MA (- BN UCSH)) (COS (COS
+         (+ MA BN))))) (+ MA BN)) BN))) (+ MA BN))
+         M) (MAX CT BN))) (- SECS (MIN (+ NN NN) (+
+     (- (- (- (MAX CT BN) (MAX UCSH UCSH)) (COS
+         (- (- (MAX CT BN) (MAX UCSH UCSH)) (MIN (*
+             MA (- BN UCSH)) (COS (COS (MIN M MA)))))))
+         (+ MA BN)) BN)))) (- SECS (MIN (+ NN NN)
+     (+ (- (- (- (MAX CT (+ (* (- (/ CT BC) UCSH)
+         (+ (* MA (- BN UCSH)) (/ CT BC))) (/ CT BC)))
+         (/ UCSH BN)) (MIN (* MA (- BN UCSH)) (COS
+         (COS (COS (COS (MIN M MA))))))) (* BN UCSH))
+         BN)))))
+
+Generation: 42
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9921671
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ (MIN (MIN (- (*
+     BN UCSH) (MAX (MAX (- (- (COS (MIN M (+ NN
+     NN))) (MIN (* MA (- BN UCSH)) (COS (+ (+
+     M M) BC)))) (+ MA BN)) (MAX CT BN)) (MAX
+     CT BN))) (- SECS (MIN (+ NN NN) (+ (- (-
+     (MAX CT BN) (- (* (- MA M) CT) (COS (* BN
+     (MAX M UCSH))))) (+ MA BN)) BN)))) (- SECS
+     (MIN (+ NN NN) (+ (- (MIN (+ M M) (- M UCSH))
+         (+ MA BN)) BN)))) M) (MAX CT BN))) (MIN (MIN
+     (- (* BN UCSH) (MAX (MAX (- (- (COS (+ (*
+         (- (MIN M MA) UCSH) (+ (* MA (- BN UCSH))
+         (/ CT BC))) (/ CT BC))) (MIN (* MA (- BN
+         UCSH)) (+ (- (- (- (MAX CT BN) (MAX UCSH
+         UCSH)) (MIN (* MA (- BN UCSH)) (COS (COS
+         (+ MA BN))))) (+ MA BN)) BN))) (+ MA BN))
+         M) (MAX CT BN))) (- SECS (MIN (+ NN NN) (+
+     (- (- (- (MAX CT BN) (MAX UCSH UCSH)) (COS
+         (- (- (MAX CT BN) (MAX UCSH UCSH)) (MIN (*
+             MA (- BN UCSH)) (COS (COS (MIN M MA)))))))
+         (+ MA BN)) BN)))) (- SECS (MIN (+ NN NN)
+     (+ (- (- (- (MAX CT (+ (* (- (/ CT BC) UCSH)
+         (+ (* MA (- BN UCSH)) (/ CT BC))) (/ CT BC)))
+         (/ UCSH BN)) (MIN (* MA (- BN UCSH)) (COS
+         (COS (COS (COS (MAX CT BN))))))) (* BN UCSH))
+         BN)))))
+
+Generation: 43
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9921671
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ (MIN (MIN (- (*
+     BN UCSH) (MAX (MAX (- (- (+ (* MA (- BN UCSH))
+     (/ CT BC)) (MIN (* MA (- BN UCSH)) (COS (+
+     (+ M M) BC)))) (+ MA BN)) (MAX CT BN)) (MAX
+     CT BN))) (- SECS (MIN (+ NN NN) (+ (- (-
+     (MAX CT BN) (- (* (- MA M) CT) (COS (* BN
+     (MAX M UCSH))))) (+ MA BN)) BN)))) (- SECS
+     (MIN (+ NN NN) (+ (- (MIN (+ M (COS (COS
+         (COS (COS (MIN M MA)))))) (- M UCSH)) (+
+         MA BN)) BN)))) M) (MAX CT BN))) (MIN (MIN
+     (- (* BN UCSH) (MAX (MAX (- (- (COS (+ (*
+         (MAX CT BN) (+ (* MA (- BN UCSH)) (/ CT BC)))
+         (/ CT BC))) (MIN (* MA (- BN UCSH)) (+ (-
+         (- (- (MAX CT BN) (MAX UCSH UCSH)) (MIN (*
+             MA UCSH) (COS (COS (+ MA BN))))) (+ MA BN))
+         BN))) (+ MA BN)) M) (MAX CT BN))) (- SECS
+     (MIN (+ NN NN) (+ (- (- (- (MAX CT BN) (MAX
+         UCSH UCSH)) (COS (- (- (MAX CT BN) (MAX UCSH
+         UCSH)) (MIN (* MA (- BN UCSH)) (COS (COS
+         (MIN M MA))))))) (+ MA BN)) BN)))) (- SECS
+     (MIN (+ NN NN) (+ (- (- (- (MAX CT (+ (*
+         (- (/ CT BC) UCSH) (+ (* MA (- BN UCSH))
+         (/ CT BC))) (/ CT BC))) (/ UCSH BN)) (MIN
+         (* MA (- BN UCSH)) (COS (COS (COS (COS (MIN
+         M MA))))))) (* BN UCSH)) BN)))))
+
+Generation: 44
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9921671
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ (MIN (MIN (- (*
+     BN UCSH) (MAX (COS (+ (* (- (MAX M UCSH)
+     UCSH) (+ (* MA (- BN UCSH)) (/ CT BC))) (/
+     CT BC))) (MAX CT BN))) (- SECS (MIN (+ NN
+     NN) (+ (- (- (MAX CT BN) (- (* (- MA M) CT)
+     (COS (* BN (MAX M UCSH))))) (+ MA BN)) BN))))
+     (- SECS (MIN (+ NN NN) (+ (- (MIN (- BN UCSH)
+         (- M UCSH)) (+ MA BN)) BN)))) M) (MAX CT
+     BN))) (MIN (MIN (- (* BN UCSH) (MAX (MAX
+     (- (- (COS (+ (* (- (/ CT BC) UCSH) (+ (/
+         CT (MAX CT BN)) (* BN UCSH))) (/ CT BC)))
+         (MIN (* MA (- BN UCSH)) (+ (- (- (COS (+
+             NN NN)) (MIN (* (+ MA BN) (- BN UCSH)) (-
+             (+ NN NN) (MAX (+ SECS M) (MAX CT BN)))))
+             (+ MA BN)) BN))) (+ MA BN)) M) (MAX CT BN)))
+     (- SECS (MIN (+ NN NN) (+ (- (- (- (MAX CT
+         BN) (MAX UCSH UCSH)) (COS (- (- (MAX CT BN)
+         (MAX UCSH UCSH)) (MIN (* MA (- BN UCSH))
+         (COS (COS (MIN M MA))))))) (+ MA BN)) BN))))
+     (- SECS (MIN (+ NN NN) (+ (- (- (- (MAX CT
+         (+ (* (- (/ CT BC) UCSH) (+ (* MA (- BN UCSH))
+             (/ CT BC))) (/ CT BC))) (/ UCSH BN)) (MIN
+         (* MA (- BN UCSH)) (COS (COS (COS (COS (MIN
+         M MA))))))) (* BN UCSH)) BN)))))
+
+Generation: 45
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9921671
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ (MIN (MIN (- (*
+     BN UCSH) (MAX (MAX (- (- (COS (MIN M (+ MA
+     BN))) (MIN (* MA (- BN UCSH)) (COS (* MA
+     (- BN UCSH))))) (+ MA BN)) (MAX CT BN)) (MAX
+     CT BN))) (- SECS (MIN (+ NN NN) (+ (- (-
+     (MAX CT BN) (- (* (- MA M) CT) (COS (* BN
+     (MAX M UCSH))))) (+ MA BN)) BN)))) (- SECS
+     (MIN (+ NN NN) (+ (- (MIN (+ M M) (- M UCSH))
+         (+ MA BN)) BN)))) M) (MAX CT BN))) (MIN (MIN
+     (- (* BN UCSH) (MAX (MAX (- (- (COS (+ (*
+         (- (/ CT BC) UCSH) (+ (* MA (+ (+ M M) BC))
+         (/ CT BC))) (/ CT BC))) (MIN (* MA (- BN
+         UCSH)) (+ (MIN (* MA (- BN UCSH)) (COS (COS
+         (COS (+ M M))))) BN))) (+ MA BN)) M) (MAX
+         CT BN))) (- SECS (MIN (+ NN NN) (+ (- (-
+     (- (MAX CT BN) (MAX UCSH UCSH)) (COS (- (-
+     (MAX CT BN) (MAX UCSH UCSH)) (MIN (* MA (MIN
+     M (- BN M))) (COS (COS (MIN M MA))))))) (+
+     MA BN)) BN)))) (- SECS (MIN (+ NN NN) (+
+     (- (- (- (MAX CT (+ (* (- (/ CT BC) UCSH)
+         (+ (* MA (- BN UCSH)) (/ CT BC))) (/ CT BC)))
+         (/ UCSH BN)) (MIN (* MA (- BN UCSH)) (COS
+         (COS (COS (COS (* MA (- BN UCSH)))))))) (*
+         BN UCSH)) BN)))))
+
+Generation: 46
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9921671
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ (MIN (MIN (- (*
+     BN UCSH) (MAX (MAX (- (- (COS (MIN M (+ MA
+     BN))) (MIN (* MA (- BN UCSH)) (COS (+ (+
+     M M) BC)))) (+ MA BN)) (MAX CT BN)) (COS
+     (MIN M MA)))) (- SECS (MIN (+ NN NN) (+ (-
+     (- (MAX CT BN) (- (* (- MA M) CT) (COS (*
+         BN (MAX M UCSH))))) (+ MA BN)) BN)))) (-
+     SECS (MIN (+ NN NN) (+ (- (MIN (+ M M) (-
+     M UCSH)) (+ MA BN)) BN)))) M) (MAX CT BN)))
+     (MIN (MIN (- (* BN UCSH) (MAX (MAX (- (-
+         (COS (- (* (- MA M) CT) (COS (* BN (MAX M
+             UCSH))))) (MIN (* MA (- BN UCSH)) (+ (- (-
+         (- (MAX CT BN) (MAX UCSH UCSH)) (MIN (* MA
+         (- BN UCSH)) (COS (COS SECS)))) (* BN UCSH))
+         BN))) (+ MA BN)) M) (MAX CT BN))) (- SECS
+         (MIN (+ NN NN) (+ (- (- (- (MAX CT BN) (MAX
+             UCSH UCSH)) (COS (- (- (MAX CT BN) (MAX UCSH
+             UCSH)) (MIN (* MA (- BN UCSH)) (COS (COS
+             (MIN M MA))))))) (+ MA BN)) BN)))) (- SECS
+         (MIN (+ NN NN) (+ (- (- (- (MAX CT (+ (*
+             (- (/ CT BC) UCSH) (+ (* MA (- BN UCSH))
+             (/ CT BC))) (/ CT BC))) (/ UCSH BN)) (MIN
+             (* MA (- BN UCSH)) (COS (COS (COS (COS (MAX
+             CT BN))))))) (* BN UCSH)) BN)))))
+
+Generation: 47
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9921671
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ (MIN (MIN (- (*
+     BN UCSH) (MAX (MAX (- (- (COS (MIN M (- BN
+     UCSH))) (MIN (* MA (- BN UCSH)) (COS (+ (+
+     M M) BC)))) (+ MA BN)) (MAX CT BN)) (MAX
+     CT BN))) (- SECS (MIN (+ NN NN) (+ (- (-
+     (MAX CT BN) (- (* (- MA M) CT) (COS (* BN
+     (MAX M UCSH))))) (+ MA BN)) BN)))) (- SECS
+     (MIN (+ NN NN) (+ (- (MIN (+ M M) (- M UCSH))
+         (+ MA BN)) BN)))) M) (MAX CT BN))) (MIN (MIN
+     (- (* BN UCSH) (MAX (MAX (- (- (COS (+ (COS
+         (MIN (* MA (- BN UCSH)) (COS (COS (+ MA BN)))))
+         (/ CT BC))) (MIN (* MA (- BN UCSH)) (+ (-
+         (- (- (MAX CT BN) (MAX UCSH UCSH)) (MIN (*
+             MA (- BN UCSH)) (- (* BN UCSH) (MAX SECS
+             (/ UCSH BN))))) (+ MA BN)) BN))) (+ MA BN))
+         M) (MAX CT BN))) (- SECS (MIN (+ NN NN) (+
+     (- (- (- (MAX CT BN) (MAX UCSH UCSH)) (COS
+         M)) (+ MA BN)) BN)))) (- SECS (MIN (+ NN
+     NN) (+ (- (- (- (MAX CT (+ (* (- (/ CT BC)
+     UCSH) (+ (* MA (- BN UCSH)) (/ CT BC))) (/
+     CT BC))) (/ UCSH BN)) (MIN (* MA (- BN UCSH))
+     (COS (COS (COS (COS (MIN M MA))))))) (* BN
+     UCSH)) BN)))))
+
+Generation: 48
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9921671
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ (MIN (MIN (- (*
+     BN UCSH) (MAX (MAX (- (- (COS (MIN M (+ MA
+     BN))) (MIN (- BN UCSH) (COS (+ (+ M M) BC))))
+     (+ MA BN)) (MAX CT BN)) (MAX CT BN))) (-
+     SECS (MIN (- (COS (MIN M (- BN M))) (MIN
+     (* MA (- BN UCSH)) (+ SECS M))) (+ (- (-
+     (MAX CT BN) (- (* (- MA M) CT) (COS (* BN
+     (MAX M UCSH))))) (+ MA (* MA (- BN UCSH))))
+     BN)))) (- SECS (MIN (+ MA BN) (+ (- (MIN
+     (+ M M) (- M UCSH)) (+ MA BN)) BN)))) M)
+     (MAX CT BN))) (MIN (MIN (- (* BN UCSH) (MAX
+     (MAX (- (- (COS (+ (* (- (/ CT BC) UCSH)
+         (+ (* MA (- BN UCSH)) (/ CT BC))) (/ CT BC)))
+         (MIN (* MA (- BN UCSH)) (+ (- (- (- (MAX
+             CT BN) (MAX UCSH UCSH)) (MIN (* MA (- BN
+             UCSH)) (COS (COS (+ MA BN))))) (+ (/ CT BC)
+             BN)) BN))) (+ MA BN)) M) (MAX CT BN))) (-
+     SECS (MIN (+ NN NN) (+ (- (- (- (MAX CT BN)
+     (MAX UCSH UCSH)) (COS (- (- (MAX CT BN) (MIN
+     (* MA (- BN UCSH)) (MAX CT BN))) (MIN (*
+     MA (- BN UCSH)) (COS (COS (MIN M MA)))))))
+     (+ MA BN)) BN)))) (- SECS (MIN (+ NN NN)
+     (+ (- (- (- (MAX CT (+ (* (- (/ CT BC) UCSH)
+         (+ (* MA (- BN UCSH)) (/ CT BC))) (/ CT BC)))
+         (/ UCSH BN)) (MIN (* MA (- BN UCSH)) (COS
+         (COS (COS (COS (MIN M MA))))))) (* BN UCSH))
+         BN)))))
+
+Generation: 49
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9921671
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ (MIN (MIN (- (*
+     BN UCSH) (MAX (MAX (- (- (COS (MIN M (+ MA
+     BN))) (MIN (* MA (- BN UCSH)) (COS (+ (MIN
+     M MA) BC)))) (+ MA BN)) (MAX CT BN)) (MAX
+     CT BN))) (- SECS (MIN (+ NN NN) (+ (- (-
+     (MAX (MIN (COS (+ M M)) (COS (COS (- BN UCSH))))
+         BN) (- (* (- MA M) CT) (COS (* BN (MAX M
+     UCSH))))) (+ MA BN)) BN)))) (- SECS (MIN
+     (+ NN NN) (+ (- (MIN (+ M M) (- M UCSH))
+     (+ MA BN)) BN)))) M) (MAX CT BN))) (MIN (MIN
+     (- (* BN UCSH) (MAX (MAX (- (- (COS (+ (*
+         (- (/ CT BC) UCSH) (+ (* MA (- BN UCSH))
+         (MAX CT BN))) (/ CT BC))) (MIN (* MA (- BN
+         UCSH)) (+ (- (- (- (MAX CT BN) (MAX UCSH
+         UCSH)) (MIN M (- BN M))) (- (- (MAX CT BN)
+         (MAX UCSH UCSH)) (MIN (* MA (- BN UCSH))
+         (COS (COS SECS))))) BN))) (+ MA BN)) M) (MAX
+         CT BN))) (- SECS (MIN (+ NN NN) (+ (- (-
+     (- (MAX CT BN) (MAX UCSH UCSH)) (COS (- (-
+     (MAX CT BN) (MAX UCSH UCSH)) (MIN (* MA (-
+     BN UCSH)) (COS (COS (+ MA BN))))))) (+ MA
+     BN)) BN)))) (- SECS (MIN (+ NN NN) (+ (-
+     (- (- (MAX CT (+ (* (- (/ CT BC) UCSH) (+
+         (MIN (* MA (- BN UCSH)) (COS (- BN M))) (/
+         CT BC))) (/ CT BC))) (/ UCSH BN)) (MIN (*
+         MA (- BN UCSH)) (COS (COS (COS (COS (MIN
+         M MA))))))) (* BN UCSH)) BN)))))
+
+Generation: 50
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9921671
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ (MIN (MIN (- (*
+     BN UCSH) (MAX (MAX (MAX CT BN) (+ (- (- (-
+     (MAX CT BN) (MAX UCSH UCSH)) (MIN (* MA (MAX
+     CT BN)) (COS (COS (+ MA BN))))) (+ MA BN))
+     BN)) (MAX CT BN))) (- SECS (MIN (+ NN NN)
+     (+ (- (- (MAX CT BN) (- (* (- MA M) CT) (COS
+         (* BN (/ CT BC))))) (+ MA BN)) BN)))) (-
+     SECS (MIN (MAX CT (+ (* (- (/ CT BC) UCSH)
+     (+ (* MA (- BN UCSH)) (/ CT BC))) (- (MAX
+     CT BN) (- (COS (MIN M MA)) (COS (* BN (MAX
+     M UCSH))))))) (+ (- (MIN (+ M M) (- M UCSH))
+     (+ MA BN)) BN)))) M) (MAX CT BN))) (MIN (MIN
+     (- (* BN UCSH) (MAX (MAX (- (- (COS (+ (*
+         (- (/ CT BC) UCSH) (+ (* MA (- BN UCSH))
+         (/ CT BC))) (/ CT BC))) (MIN (* MA (- BN
+         UCSH)) (+ (- (- (- (MAX CT BN) (MAX UCSH
+         UCSH)) (MIN (* MA (- BN UCSH)) (COS (COS
+         (+ MA BN))))) (+ (/ CT BC) BN)) BC))) (+
+         MA BN)) M) (MAX CT BN))) (- SECS (MIN (+
+     NN NN) (+ (- (- (- (MAX CT BN) (MAX UCSH
+     UCSH)) (COS (- (- (MAX CT BN) (MAX UCSH UCSH))
+     (MIN (* MA (- BN UCSH)) (COS (COS (MIN M
+         MA))))))) (+ MA BN)) BN)))) (- SECS (MIN
+     (+ NN NN) (+ (- (- (- (MAX CT (+ (* (- (/
+     CT BC) UCSH) (+ (* MA (- BN UCSH)) (/ CT
+     BC))) (/ CT BC))) (/ UCSH BN)) (MIN (* MA
+     (- BN UCSH)) (COS (+ (- (- (- (MAX CT BN)
+     (MAX UCSH UCSH)) (MIN (* MA (- BN UCSH))
+     (COS (COS (+ MA BN))))) (+ (/ CT BC) BN))
+     BN)))) (* BN UCSH)) BN)))))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9921671
+Tree 0:
+ (- (- (* BN UCSH) (MAX (+ (MIN (MIN (- (*
+     BN UCSH) (MAX (MAX (- (- (COS (MIN M (+ MA
+     BN))) (MIN (* MA (- BN UCSH)) (COS (+ (+
+     M M) BC)))) (+ MA BN)) (MAX CT BN)) (MAX
+     CT BN))) (- SECS (MIN (+ NN NN) (+ (- (-
+     (MAX CT BN) (- (* (- MA M) CT) (COS (* BN
+     (MAX M UCSH))))) (+ MA BN)) BN)))) (- SECS
+     (MIN (+ NN NN) (+ (- (MIN (+ M M) (- M UCSH))
+         (+ MA BN)) BN)))) M) (MAX CT BN))) (MIN (MIN
+     (- (* BN UCSH) (MAX (MAX (- (- (COS (+ (*
+         (- (/ CT BC) UCSH) (+ (* MA (- BN UCSH))
+         (/ CT BC))) (/ CT BC))) (MIN (* MA (- BN
+         UCSH)) (+ (- (- (- (MAX CT BN) (MAX UCSH
+         UCSH)) (MIN (* MA (- BN UCSH)) (COS (COS
+         (+ MA BN))))) (+ MA BN)) BN))) (+ MA BN))
+         M) (MAX CT BN))) (- SECS (MIN (+ NN NN) (+
+     (- (- (- (MAX CT BN) (MAX UCSH UCSH)) (COS
+         (- (- (MAX CT BN) (MAX UCSH UCSH)) (MIN (*
+             MA (- BN UCSH)) (COS (COS (MIN M MA)))))))
+         (+ MA BN)) BN)))) (- SECS (MIN (+ NN NN)
+     (+ (- (- (- (MAX CT (+ (* (- (/ CT BC) UCSH)
+         (+ (* MA (- BN UCSH)) (/ CT BC))) (/ CT BC)))
+         (/ UCSH BN)) (MIN (* MA (- BN UCSH)) (COS
+         (COS (COS (COS (MIN M MA))))))) (* BN UCSH))
+         BN)))))

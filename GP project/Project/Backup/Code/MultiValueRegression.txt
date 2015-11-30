@@ -1,0 +1,115 @@
+// Ashkan Entezari - 5470794
+// main class for assignment 1 - part A
+
+
+
+
+/*
+  Copyright 2006 by Sean Luke
+  Licensed under the Academic Free License version 3.0
+  See the file "LICENSE" for more information
+*/
+
+
+package ec.app.tutorial4;
+import ec.util.*;
+import ec.*;
+import ec.gp.*;
+import ec.gp.koza.*;
+import ec.simple.*;
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.Collection;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+
+public class MultiValuedRegression extends GPProblem implements SimpleProblemForm
+    {
+    private static final long serialVersionUID = 1;
+
+    public double currentX;
+    public double currentY;
+    int cnt2 = 0;
+    Individual[][] info = new Individual[10][4];
+    int[] info_size = new int[10];
+    
+    public void setup(final EvolutionState state,
+        final Parameter base)
+        {
+        super.setup(state, base);
+        
+        // verify our input is the right class (or subclasses from it)
+        if (!(input instanceof DoubleData))
+            state.output.fatal("GPData class must subclass from " + DoubleData.class,
+                base.push(P_DATA), null);
+        }
+        
+    public void evaluate(final EvolutionState state, 
+        final Individual ind, 
+        final int subpopulation,
+        final int threadnum)
+        {
+        if (!ind.evaluated)  // don't bother reevaluating
+            {
+            DoubleData input = (DoubleData)(this.input);
+            ec.util.Output a = new Output(true);
+            int hits = 0;
+            int cnt = 0;
+            
+            double[][] myInput = new double[10][2];
+            double sum = 0.0;
+            double expectedResult;
+            double result;
+            try {
+                // Here I want to read the input from my data file (instead of generating random numbers)
+                BufferedReader reader = new BufferedReader(new FileReader("C:\\Users\\ae13cu\\Documents\\NetBeansProjects\\GPASS1\\src\\gpass1\\input.txt"));
+                String line;
+                String[] numbers;
+                int index = 0;
+                
+                while((line = reader.readLine()) != null)
+                {
+                    numbers = line.split(" ");
+                    double i = Double.valueOf(numbers[0]);
+                    double j = Double.valueOf(numbers[1]);
+                    myInput[index][0] = i;
+                    myInput[index++][1] = j;
+                }
+            } catch (FileNotFoundException ex) {
+                Logger.getLogger(MultiValuedRegression.class.getName()).log(Level.SEVERE, null, ex);
+            } catch (IOException ex) {
+                Logger.getLogger(MultiValuedRegression.class.getName()).log(Level.SEVERE, null, ex);
+            }
+            
+            for (int y=0;y<10;y++)
+            {
+                //currentX = state.random[threadnum].nextDouble();
+                //currentY = state.random[threadnum].nextDouble();
+                currentX = myInput[y][0];
+                currentY = myInput[y][1];
+                //System.out.println("X: "+currentX+" - Y: "+currentY);
+                expectedResult = currentX*currentX*currentY + currentX*currentY + currentY;
+                ((GPIndividual)ind).trees[0].child.eval(
+                    state,threadnum,input,stack,((GPIndividual)ind),this);
+                System.out.println("cnt: "+cnt);
+                cnt++;
+                result = Math.abs(expectedResult - input.x);
+                if (result <= 0.01) hits++;
+                sum += result;
+                
+                System.out.println("Ind: "+ind);
+            }
+            cnt2++;
+            //ec.gp.GPIndividual.
+            // the fitness better be KozaFitness!
+            KozaFitness f = ((KozaFitness)ind.fitness);
+            f.setStandardizedFitness(state,(float)sum);
+            f.hits = hits;
+            System.out.println("Total: "+cnt2);
+            ind.evaluated = true;
+            }
+        }
+    }
+

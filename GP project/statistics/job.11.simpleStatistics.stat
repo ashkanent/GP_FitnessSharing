@@ -1,0 +1,107 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.8124775
+Tree 0:
+ (/ (- (/ SECS SECS) (+ BC MA)) (SIN (SIN
+     UCSH)))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.8124775
+Tree 0:
+ (/ (- (/ SECS SECS) (+ BC MA)) (SIN (SIN
+     UCSH)))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.8124775
+Tree 0:
+ (/ (- (/ SECS SECS) (+ BC MA)) (SIN (SIN
+     UCSH)))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.8124775
+Tree 0:
+ (/ (- (/ SECS SECS) (+ BC MA)) (SIN (SIN
+     UCSH)))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.8124775
+Tree 0:
+ (/ (- (/ SECS SECS) (+ BC MA)) (SIN (SIN
+     UCSH)))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.8124775
+Tree 0:
+ (/ (- (/ SECS SECS) (+ BC MA)) (SIN (SIN
+     UCSH)))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.8124775
+Tree 0:
+ (/ (- (/ SECS SECS) (+ BC MA)) (SIN (SIN
+     UCSH)))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.8124775
+Tree 0:
+ (/ (- (/ SECS SECS) (+ BC MA)) (SIN (SIN
+     UCSH)))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.8124775
+Tree 0:
+ (/ (- (/ SECS SECS) (+ BC MA)) (SIN (SIN
+     UCSH)))
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.8124775
+Tree 0:
+ (/ (- (/ SECS SECS) (+ BC MA)) (SIN (SIN
+     UCSH)))
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.8124775
+Tree 0:
+ (/ (- (/ SECS SECS) (+ BC MA)) (SIN (SIN
+     UCSH)))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.8124775
+Tree 0:
+ (/ (- (/ SECS SECS) (+ BC MA)) (SIN (SIN
+     UCSH)))

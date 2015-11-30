@@ -1,0 +1,119 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7433746
+Tree 0:
+ (MIN (MAX (+ (MAX (- UCS UCSH) UCS) (MAX
+     (COS UCSH) (/ UCSH M))) CT) (COS (/ (+ (/
+     MA SECS) SECS) BN)))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7433746
+Tree 0:
+ (MIN (MAX (+ (MAX (- UCS UCSH) UCS) (MAX
+     (COS UCSH) (/ UCSH M))) CT) (COS (/ (+ (/
+     MA SECS) SECS) BN)))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7433746
+Tree 0:
+ (MIN (MAX (+ (MAX (- UCS UCSH) UCS) (MAX
+     (COS UCSH) (/ UCSH M))) CT) (COS (/ (+ (/
+     MA SECS) SECS) BN)))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7433746
+Tree 0:
+ (MIN (MAX (+ (MAX (- UCS UCSH) UCS) (MAX
+     (COS UCSH) (/ UCSH M))) CT) (COS (/ (+ (/
+     MA SECS) SECS) BN)))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7433746
+Tree 0:
+ (MIN (MAX (+ (MAX (- UCS UCSH) UCS) (MAX
+     (COS UCSH) (/ UCSH M))) CT) (COS (/ (+ (/
+     MA SECS) SECS) BN)))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7433746
+Tree 0:
+ (MIN (MAX (+ (MAX (- UCS UCSH) UCS) (MAX
+     (COS UCSH) (/ UCSH M))) CT) (COS (/ (+ (/
+     MA SECS) SECS) BN)))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7433746
+Tree 0:
+ (MIN (MAX (+ (MAX (- UCS UCSH) UCS) (MAX
+     (COS UCSH) (/ UCSH M))) CT) (COS (/ (+ (/
+     MA SECS) SECS) BN)))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7433746
+Tree 0:
+ (MIN (MAX (+ (MAX (- UCS UCSH) UCS) (MAX
+     (COS UCSH) (/ UCSH M))) CT) (COS (/ (+ (/
+     MA SECS) SECS) BN)))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7433746
+Tree 0:
+ (MIN (MAX (+ (MAX (- UCS UCSH) UCS) (MAX
+     (COS UCSH) (/ UCSH M))) CT) (COS (/ (+ (/
+     MA SECS) SECS) BN)))
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7433746
+Tree 0:
+ (MIN (MAX (+ (MAX (- UCS UCSH) UCS) (MAX
+     (COS UCSH) (/ UCSH M))) CT) (COS (/ (+ (/
+     MA SECS) SECS) BN)))
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7433746
+Tree 0:
+ (MIN (MAX (+ (MAX (- UCS UCSH) UCS) (MAX
+     (COS UCSH) (/ UCSH M))) CT) (COS (/ (+ (/
+     MA SECS) SECS) BN)))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7433746
+Tree 0:
+ (MIN (MAX (+ (MAX (- UCS UCSH) UCS) (MAX
+     (COS UCSH) (/ UCSH M))) CT) (COS (/ (+ (/
+     MA SECS) SECS) BN)))
